@@ -1,5 +1,5 @@
 name: Mi primer WorkFlow
-on: [push]
+on: [push, pull_request]
 
 jobs:
   un-nombre-generico:
