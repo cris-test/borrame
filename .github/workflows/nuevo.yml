@@ -1,9 +1,0 @@
-name: Mi primer WorkFlow
-on: [push, pull_request]
-
-jobs:
-  un-nombre-generico:
-    runs-on: ubuntu-latest
-    steps:
-      - name: primer paso
-        run: echo "Hola Mundo!"
