@@ -1,4 +1,9 @@
-# Introduction
+Introduction
+===================
+
+Part 1
+-------------------
+
 Here's a sentence with a footnote. [^1]
 
 I need to highlight these ==very important words==.
@@ -15,6 +20,9 @@ I need to highlight these ==very important words==.
   No hay tips.
 </details>
 
+Part 2
+-------------------
+
 ```mermaid
 graph TD;
 A-->B;
@@ -22,3 +30,8 @@ A-->C;
 B-->D;
 C-->D;
 ```
+
+Part 3
+-------------------
+
+More thigs to come!
