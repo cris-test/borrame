@@ -1,5 +1,8 @@
 import sys  # importa sys
 
+def calculate_average(numbers):
+    return sum(numbers) / len(numbers)
+
 def main():
     print("call main")
 
